@@ -2,6 +2,8 @@
 
 Hi, my name is Ed and I'm starting on my developer journey.
 
+![Image](https://images.unsplash.com/photo-1606654648115-7ff102f2d06b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
