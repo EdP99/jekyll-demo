@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/EdP99/jekyll-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Ed and I'm starting on my developer journey.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
